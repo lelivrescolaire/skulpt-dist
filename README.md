@@ -1,3 +1,1 @@
-# Skulpt repository for bower 
-
-test change
+# Skulpt repository for npm
